@@ -1,0 +1,22 @@
+main {
+	margin: 18px auto;
+	padding: 12px;
+	width: 600px;
+	display: flex;
+	flex-direction: column;
+	align-items: center;
+}
+
+.audio-controls {
+	display: flex;
+}
+
+.audio-controls label {
+	display: flex;
+	align-content: center;
+	margin-right: 12px;
+}
+
+.playback-controls {
+	margin-top: 12px;
+}
